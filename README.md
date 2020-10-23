@@ -1,1 +1,1 @@
-This is a recreation of the old codepen.io landing page design for application to the The Bearden Award for Women in Computer Science scholarship offered through Idaho Codes 2020.
+This is a recreation of the old codepen.io landing page design created using HTML5 and CSS3 from scratch. This project won The Bearden Award for Women in Computer Science scholarship in October 2020.
